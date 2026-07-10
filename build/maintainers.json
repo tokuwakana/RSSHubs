@@ -10292,6 +10292,12 @@
     "DIYgod",
     "pseudoyu"
   ],
+  "/tophub/:id": [
+    "LogicJake"
+  ],
+  "/tophub/list/:id": [
+    "akynazh"
+  ],
   "/economist/global-business-review/:language?": [
     "prnake"
   ],
@@ -10300,11 +10306,5 @@
   ],
   "/economist/espresso": [
     "TonyRL"
-  ],
-  "/tophub/:id": [
-    "LogicJake"
-  ],
-  "/tophub/list/:id": [
-    "akynazh"
   ]
 }
